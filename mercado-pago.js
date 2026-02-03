@@ -1,3 +1,5 @@
-const m = 'mercado pago';
-const d = 'devedor';
-console.log(m);
+const m = "me";
+
+const p = "pagamento";
+const d = "devedor";
+console.log(m,d);
